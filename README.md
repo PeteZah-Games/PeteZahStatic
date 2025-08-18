@@ -1,3 +1,6 @@
+> [!CAUTION]
+> This repo is out of date. we have moved [here](https://github.com/PeteZah-Games/PeteZahGames).
+
 # Pete Zah Games
 A unblocked gaming site for you that self hosts over 200+ games from reliable sources.
 
